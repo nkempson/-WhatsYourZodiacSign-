@@ -16,3 +16,8 @@ Week 3: I have written majority of the code and I am deciding whether I can get 
 
 
 
+Final:
+****To operate the app you click run. You will be prompted to enter your Birth month and your Birth Day. 
+**** The birthday you input must be typed with lowercase letters.
+
+
